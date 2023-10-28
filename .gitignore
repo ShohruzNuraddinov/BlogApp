@@ -15,4 +15,4 @@ ENV/
 media/
 
 *.db
-*.sqlite
+*.sqlite3
